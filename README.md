@@ -1,1 +1,1 @@
-# symbol-table-with-c-
+# symbol-table from compiler
